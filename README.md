@@ -1,5 +1,4 @@
-# Coffee-Leaf-Diseases-Classification-using-Deep-Learning-Models
-This is the source codes and files of our graduation project : Coffee Leaf Diseases Classification using Deep Learning Models - College of Computer, Information Technology (IT)
+
 # Coffee-Leaf-Diseases-Classification-using-Deep-Learning-Models
 ## Proposed Work for Coffee Leaf Classification 🌱
 We proposed the Coffee Leaf Quadruple Classifier (CLQC), a model that is divided into four distinct stages.
