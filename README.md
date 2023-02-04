@@ -3,10 +3,12 @@
 ## Proposed Work for Coffee Leaf Classification 🌱
 We proposed a model that is divided into four distinct stages.
 
+ 
+## Dataset ⭐
+ 
+ Our Dataset link here [Dataset](https://drive.google.com/drive/folders/1gu-ghdHmOv5irBs7r8fsZu_LEfswR4fY?usp=share_link) is a particular data set that we have created for ourselves is a merging of the four datasets [BrACoL](https://data.mendeley.com/datasets/yy2k5y8mxg/1) , [JMuBEN](https://data.mendeley.com/datasets/t2r6rszp5c/1), [JMuBEN2](https://data.mendeley.com/datasets/tgv3zb82nd/1) , [RoCoL](https://data.mendeley.com/datasets/c5yvn32dzg/2) , and LiCoLe
 
 
-## Datasets 
-A particular data set that we have created for ourselves is a merging of the four datasets [BrACoL](https://data.mendeley.com/datasets/yy2k5y8mxg/1) , [JMuBEN](https://data.mendeley.com/datasets/t2r6rszp5c/1), [JMuBEN2](https://data.mendeley.com/datasets/tgv3zb82nd/1) , [RoCoL](https://data.mendeley.com/datasets/c5yvn32dzg/2) , and LiCoLe
 
 | Dataset | Diseases | Citation |
 | --- | --- | --- |
@@ -14,6 +16,8 @@ A particular data set that we have created for ourselves is a merging of the fou
 | JMuBEN / JMuBEN2     | Cercospora Leaf Spot(CLS),Coffee Leaf Rust(CLR), Phoma Leaf Spot(PLS), Healthy, Coffee Leaf Miner(CLM),       | Jepkoech, Jennifer & Mugo, David & Kenduiywo, Benson & Too, Edna. (2021). Arabica coffee leaf images dataset for coffee leaf disease detection and classification. Data in Brief. 36. 107142. 10.1016/j.dib.2021.107142.      |
 | RoCoL  | Coffee Leaf Rust (CLR), Red Spider Mites (RSM)     | Parraga-Alava, Jorge; Cusme, Kevin; Loor, Angélica; Santander, Esneider (2019), “RoCoLe: A robusta coffee leaf images dataset ” Mendeley Data, V2, doi: [10.17632/c5yvn32dzg.2](http://dx.doi.org/10.17632/c5yvn32dzg.2)    |
 | LiCoLe  |  Healthy , CLR , Sooty Molds (SM)    | Montalbo, Francis Jesmar Perez; Hernandez, Alexander Arsenio (2020) "Classifying Barako coffee leaf diseases using deep convolutional models" International Journal of Advances in Intelligent Informatics (IJAIN) [S.l.], v. 6, n. 2, p. 197-209, july 2020. ISSN 2548-3161. doi: [10.26555/ijain.v6i2.495](https://doi.org/10.26555/ijain.v6i2.495)
+
+
 
 ## Pre-trained Models 
 * VGG16
