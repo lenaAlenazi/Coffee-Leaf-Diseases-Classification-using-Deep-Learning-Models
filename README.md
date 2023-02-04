@@ -1,7 +1,7 @@
 
 # Coffee-Leaf-Diseases-Classification-using-Deep-Learning-Models
 ## Proposed Work for Coffee Leaf Classification 🌱
-We proposed a model that is divided into four distinct stages.
+We proposed a model that is divided into three distinct stages.
 
  
 ## Dataset ⭐
