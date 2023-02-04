@@ -1,8 +1,7 @@
 
 # Coffee-Leaf-Diseases-Classification-using-Deep-Learning-Models
 ## Proposed Work for Coffee Leaf Classification 🌱
-We proposed a model that is divided into three distinct stages.
-
+We propose a state-of-the-art framework that consists of 4 deep models which are VGG16, EfficientNetB0, DenseNet121, and ResNet152-V2 implemented in a stage-wise approach.
  
 ## Dataset ⭐
  
