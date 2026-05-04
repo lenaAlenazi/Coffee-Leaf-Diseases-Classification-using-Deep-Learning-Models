@@ -2,8 +2,8 @@
 # Coffee-Leaf-Diseases-Classification-using-Deep-Learning-Models
 ## Proposed Work for Coffee Leaf Classification 🌱
 We propose a state-of-the-art framework that consists of 4 deep models which are VGG16, EfficientNetB0, DenseNet121, and ResNet152-V2 implemented in a stage-wise approach.
-## Conference paper
-https://link.springer.com/chapter/10.1007/978-3-031-53237-5_14
+## Our Conference  [paper](https://link.springer.com/chapter/10.1007/978-3-031-53237-5_14) link 
+
 ## Dataset ⭐
  
  Our Dataset link here [Dataset](https://drive.google.com/drive/folders/1dDEw-VhuGx37wSVqhYQ-m1zKFug2SpDz?usp=share_link) is a particular data set that we have created for ourselves is a merging of the five datasets [BrACoL](https://data.mendeley.com/datasets/yy2k5y8mxg/1) , [JMuBEN](https://data.mendeley.com/datasets/t2r6rszp5c/1), [JMuBEN2](https://data.mendeley.com/datasets/tgv3zb82nd/1) , [RoCoL](https://data.mendeley.com/datasets/c5yvn32dzg/2) , and LiCoLe
